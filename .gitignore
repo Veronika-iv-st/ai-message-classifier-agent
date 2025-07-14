@@ -1,0 +1,34 @@
+# Entorno virtual
+venv/
+.env
+.env.*
+
+# Archivos de configuración sensibles
+*.env
+*.key
+*.pem
+
+# Cachés y compilados de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de sistema y backup
+*.bak
+*.old
+*.orig
+
+# Archivos generados
+requirements.txt
