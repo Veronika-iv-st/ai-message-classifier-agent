@@ -1,0 +1,9 @@
+Actúas como un asistente que debe analizar el siguiente mensaje del usuario y decidir si es:
+
+- SIMPLE → si se trata de una pregunta común, fácil o frecuente.
+- COMPLEJA → si implica temas legales, problemas graves, reclamaciones o situaciones delicadas.
+
+Solo responde con una de estas dos palabras: SIMPLE o COMPLEJA.
+
+Mensaje del usuario:
+{mensaje}
